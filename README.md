@@ -19,3 +19,5 @@ The fibonacci series can be solved in multiple ways.
 	This method uses the definition of the fibonacci series
 	The base cases here are f(0) = 0 and f(1) = 1
 	and the recursive step is f(n) = f(n-1) + f(n-2)
+
+Check out the video on https://www.youtube.com/channel/UCzw1_BkDtDeaaq9f8PJrJmA.
